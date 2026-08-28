@@ -45,3 +45,18 @@ Option B - Triage by Severity:
 Notice: both options are valid. The right choice depends on what the hospital optimizes for. A field hospital during war optimizes differently than a suburban clinic.
 
 This is exactly how engineers think. Every architecture decision is a trade-off. The engineer's job is to understand what the system needs to optimize for, and then choose accordingly - not to find the "best" technology in some abstract sense.
+
+---
+
+### 1.3 - The Five Dimensions of Every System
+Every production system can be evaluated along five dimensions. These are in constant tension with each other:
+
+- Performance - How fast does it respond? How much load can it handle?
+- Reliability - Does it work when it should? Does it stay working under failure?
+- Scalability - Can it grow when demand increases? Without a complete rewrite?
+- Maintainability - Can engineers understand it, change it, and debug it over time?
+- Cost - What does it cost to build and operate? Both financially and in engineering effort?
+
+The hard truth: you cannot maximize all five simultaneously. Optimizing hard for performance often hurts maintainability. Maximizing reliability often increases cost. Building for extreme scalability early often hurts simplicity.
+
+A Staff Engineer's judgment lies in knowing which dimensions matter most for the current context - and accepting the trade-offs that come with that choice.
