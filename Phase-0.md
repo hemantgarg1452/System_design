@@ -28,3 +28,20 @@ Every decision in System Design comes back to one fundamental question:
 Nothing in engineering is free. Every decision that gains something also loses something. This is not a limitation of technology. This is the nature of reality.
 
 Let's make this concrete with a real example.
+
+---
+
+### Real-Life Analogy: The Hospital
+You run a hospital. You face a decision: should your emergency room operate as first-come, first-served, or should you triage by severity?
+
+Option A - First Come, First Served:
+- Gain: Simple. Fair in one sense. No judgment required.
+- Cost: Someone with a broken finger is seen before someone with a heart attack.
+
+Option B - Triage by Severity:
+- Gain: Critical cases are handled first. Lives saved.
+- Cost: Complex. Requires trained staff to judge severity. Feels unfair to someone who waited three hours with a broken finger.
+
+Notice: both options are valid. The right choice depends on what the hospital optimizes for. A field hospital during war optimizes differently than a suburban clinic.
+
+This is exactly how engineers think. Every architecture decision is a trade-off. The engineer's job is to understand what the system needs to optimize for, and then choose accordingly - not to find the "best" technology in some abstract sense.
