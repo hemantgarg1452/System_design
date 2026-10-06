@@ -38,7 +38,7 @@ Option A - First Come, First Served:
 - Gain: Simple. Fair in one sense. No judgment required.
 - Cost: Someone with a broken finger is seen before someone with a heart attack.
 
-Option B - Triage by Severity:
+Option B - Triage by Severity-
 - Gain: Critical cases are handled first. Lives saved.
 - Cost: Complex. Requires trained staff to judge severity. Feels unfair to someone who waited three hours with a broken finger.
 
