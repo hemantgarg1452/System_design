@@ -34,7 +34,7 @@ Let's make this concrete with a real example.
 ### Real-Life Analogy: The Hospital
 You run a hospital. You face a decision: should your emergency room operate as first-come, first-served, or should you triage by severity?
 
-Option A - First Come, First Served:
+Option A - First Come, First Served-
 - Gain: Simple. Fair in one sense. No judgment required.
 - Cost: Someone with a broken finger is seen before someone with a heart attack.
 
