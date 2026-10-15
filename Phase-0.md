@@ -1,5 +1,5 @@
 # Phase 0: Engineering Thinking
-### Why We Start Here (And Not With Databases or Servers)
+### Why We Start Here (And Not With Databases or Servers)-
 
 ---
 Most people begin System Design by learning what Kafka is, what Redis is, what a load balancer is. Then they memorize when to use them.
