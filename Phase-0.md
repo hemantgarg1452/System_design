@@ -60,3 +60,37 @@ Every production system can be evaluated along five dimensions. These are in con
 The hard truth: you cannot maximize all five simultaneously. Optimizing hard for performance often hurts maintainability. Maximizing reliability often increases cost. Building for extreme scalability early often hurts simplicity.
 
 A Staff Engineer's judgment lies in knowing which dimensions matter most for the current context - and accepting the trade-offs that come with that choice.
+
+---
+
+<img width="1266" height="760" alt="image" src="https://github.com/user-attachments/assets/4fc6a9e9-39dc-4465-9e10-99e14ea39326" />
+
+---
+
+### 1.4 - How Requirements Become Technical Decisions
+In a real company, systems don't start with "let's se kubernetes" They start with a conversation between a product manager and engineers. Let's watch how that unfolds.
+
+#### The Company Workflow - How a Feature Becomes Architecture:
+
+---
+
+#### Product Manager to Engineering Manager:
+> We need to add an approval workflow to our internal tool. When someone submits a request, it should go to their manager for approval, then to finance, then automatically update the database.
+
+This sounds simple. But watch what a senior engineer thinks when they hear this.
+
+---
+
+#### Senior Engineer's internal questions (this is the mindset we're building):
+"How many approvals per day? 10? 10,000? That changes everything."
+"What happens if the manager is on vacation and never approves? Does the request expire? Who gets notified?"
+"What id the system crashes between the manager approving and finance receiving it? Do we lose that approval?"
+"What does 'automatically update the database' mean - is it one database? Which one?"
+"What if finance rejects something the manager already approved? Can a decision be reversed?"
+"How do we audit who approved what and when? Compliance may require this."
+
+NOTICE: the engineer hasn't touched a single technology yet. They're still understanding the problem. This is the right sequence.
+
+---
+
+
