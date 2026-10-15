@@ -31,7 +31,7 @@ Let's make this concrete with a real example.
 
 ---
 
-### Real-Life Analogy: The Hospital
+### Real-Life Analogy: The Hospital-
 You run a hospital. You face a decision: should your emergency room operate as first-come, first-served, or should you triage by severity?
 
 Option A - First Come, First Served-
