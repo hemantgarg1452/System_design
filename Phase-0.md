@@ -81,7 +81,7 @@ This sounds simple. But watch what a senior engineer thinks when they hear this.
 
 ---
 
-#### Senior Engineer's internal questions (this is the mindset we're building):
+#### Senior Engineer's internal questions (this is the mindset we're building):-
 "How many approvals per day? 10? 10,000? That changes everything."
 "What happens if the manager is on vacation and never approves? Does the request expire? Who gets notified?"
 "What id the system crashes between the manager approving and finance receiving it? Do we lose that approval?"
