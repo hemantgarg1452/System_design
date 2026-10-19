@@ -74,7 +74,7 @@ In a real company, systems don't start with "let's se kubernetes" They start wit
 
 ---
 
-#### Product Manager to Engineering Manager:
+#### Product Manager to Engineering Manager:-
 > We need to add an approval workflow to our internal tool. When someone submits a request, it should go to their manager for approval, then to finance, then automatically update the database.
 
 This sounds simple. But watch what a senior engineer thinks when they hear this.
