@@ -70,7 +70,7 @@ A Staff Engineer's judgment lies in knowing which dimensions matter most for the
 ### 1.4 - How Requirements Become Technical Decisions
 In a real company, systems don't start with "let's se kubernetes" They start with a conversation between a product manager and engineers. Let's watch how that unfolds.
 
-#### The Company Workflow - How a Feature Becomes Architecture:
+#### The Company Workflow - How a Feature Becomes Architecture:-
 
 ---
 
