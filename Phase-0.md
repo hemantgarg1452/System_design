@@ -63,7 +63,8 @@ A Staff Engineer's judgment lies in knowing which dimensions matter most for the
 
 ---
 
-<img width="1266" height="760" alt="image" src="https://github.com/user-attachments/assets/4fc6a9e9-39dc-4465-9e10-99e14ea39326" />
+<img width="2720" height="1520" alt="five_dimensions_tension" src="https://github.com/user-attachments/assets/b4634382-60e4-4634-8c93-78879b57aa14" />
+<!-- <img width="1266" height="760" alt="image" src="https://github.com/user-attachments/assets/4fc6a9e9-39dc-4465-9e10-99e14ea39326" /> -->
 
 ---
 
