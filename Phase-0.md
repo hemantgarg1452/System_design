@@ -31,7 +31,7 @@ Let's make this concrete with a real example.
 
 ---
 
-### Real-Life Analogy: The Hospital:-
+### Real-Life Analogy: The Hospital-
 You run a hospital. You face a decision: should your emergency room operate as first-come, first-served, or should you triage by severity?
 
 Option A - First Come, First Served-
@@ -48,7 +48,7 @@ This is exactly how engineers think. Every architecture decision is a trade-off.
 
 ---
 
-### 1.3 - The Five Dimensions of Every System:-
+### 1.3 - The Five Dimensions of Every System-
 Every production system can be evaluated along five dimensions. These are in constant tension with each other:
 
 - Performance - How fast does it respond? How much load can it handle?
