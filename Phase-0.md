@@ -12,7 +12,7 @@ A real doctor reasons from first principles. They understand how the body works,
 Engineering is the same. We must build your reasoning machinery first. Once that machinery exists, every technology you learn becomes a tool you can evaluate, not a fact you memorize.
 
 ---
-### Chapter 1: The Engineering Mindset:-
+### Chapter 1: The Engineering Mindset-
 1.1 - The Problem That Always Exists
 Before any system is built, a problem exists. That problem is real. It affects real users, costs real money, or represents real risk.
 
@@ -71,7 +71,7 @@ A Staff Engineer's judgment lies in knowing which dimensions matter most for the
 ### 1.4 - How Requirements Become Technical Decisions
 In a real company, systems don't start with "let's se kubernetes" They start with a conversation between a product manager and engineers. Let's watch how that unfolds.
 
-#### The Company Workflow - How a Feature Becomes Architecture:-
+#### The Company Workflow - How a Feature Becomes Architecture-
 
 ---
 
