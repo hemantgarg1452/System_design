@@ -104,3 +104,4 @@ Our first engineering decision meeting:
 > Junior Engineer: "We could use React for the frontend and Node.js for the backend, and store everything in PostgreSQL. Should we also add Kafka for the approval notifications?"
 > Senior Engineer: "Stop. We don't know enough yet to make any of those decisions. What do we actually need to do first?"
 > Tech Lead: "We need to understand the problem. How many users? What's the approval flow? What are the failure cases?"
+> PM: "We have 50 internal users right now. A user submits a request, one manager approves it, then it's done. Maybe later we add multi-step approvals."
