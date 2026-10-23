@@ -94,4 +94,10 @@ NOTICE: the engineer hasn't touched a single technology yet. They're still under
 
 ---
 
+### 1.5 - The Approval Management System: Version 0.1
+This is the living system we will build throughout this entire course. Right now, it starts as the simplest possible thing. We'll envolve it phase by phase.
+#### Today's requirement from the PM: Build a basic approval workflow syestem.
+Our first engineering decision meeting:
+
+---
 
