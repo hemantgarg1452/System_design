@@ -107,3 +107,4 @@ Our first engineering decision meeting:
 > PM: "We have 50 internal users right now. A user submits a request, one manager approves it, then it's done. Maybe later we add multi-step approvals."
 > Senior Engineer: "OK. 50 users. Single approver. No mention of audit logs or compliance yet. No mention of high availability. No mention of 24/7 uptime requirements. What does that tell us?"
 > Tech Lead: "That tells us we do NOT need kafka. We do NOT need distributes systems. We do NOT need a microservice architecture. We need the simplest thing that works."
+> Architect: "Exactly. The biggest mistake engineers make is building for scale they don't have. Complexity you introduce today has to be maintained forever. A junior engineer adds kafka because it's cool. A Staff Engineer asks: what problem are we solving that requires kafka? If there's no answer, we don't add it."
