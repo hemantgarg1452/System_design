@@ -105,4 +105,5 @@ Our first engineering decision meeting:
 > Senior Engineer: "Stop. We don't know enough yet to make any of those decisions. What do we actually need to do first?"
 > Tech Lead: "We need to understand the problem. How many users? What's the approval flow? What are the failure cases?"
 > PM: "We have 50 internal users right now. A user submits a request, one manager approves it, then it's done. Maybe later we add multi-step approvals."
-> Senior Engineer: "OK. 50 users. Single approver. No mention of audit logs or compliance yet. No mention of high availability. No mention of 24/7 uptime requirements. What does that tell use?"
+> Senior Engineer: "OK. 50 users. Single approver. No mention of audit logs or compliance yet. No mention of high availability. No mention of 24/7 uptime requirements. What does that tell us?"
+> Tech Lead: "That tells us we do NOT need kafka. We do NOT need distributes systems. We do NOT need a microservice architecture. We need the simplest thing that works."
