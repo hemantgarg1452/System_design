@@ -132,6 +132,10 @@ You will evolve it to handle 1 million users. But we will only add complexity wh
 
 ---
 
-#### Chapter 2: How Experienced Engineers Actually Think
+### Chapter 2: How Experienced Engineers Actually Think
 
 This is something no textbook teaches, so we’ll study it directly.
+
+#### 2.1 - First Principles vs. Analogy
+
+There are two ways to solve engineering problems:
