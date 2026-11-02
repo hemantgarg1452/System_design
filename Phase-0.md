@@ -139,3 +139,6 @@ This is something no textbook teaches, so we’ll study it directly.
 #### 2.1 - First Principles vs. Analogy
 
 There are two ways to solve engineering problems:
+By Analogy: “Netflix uses microservices, so we should too.”
+
+By First Principles: “What are our actual bottlenecks? What breaks first as we grow? What is the simplest architecture that handles our real load?”
