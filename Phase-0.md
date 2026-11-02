@@ -121,3 +121,8 @@ This conversation captures something essential: engineering restraint. The abili
 Here's is what our Approval Management System looks like today:
 
 ---
+
+<img width="2720" height="1680" alt="approval_system_v0_1" src="https://github.com/user-attachments/assets/27944299-cf84-418e-953a-f21fb3c5c97d" />
+
+
+
