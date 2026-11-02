@@ -130,3 +130,8 @@ This is your system right now. It is embarrassingly simple. And that is exactly 
 
 You will evolve it to handle 1 million users. But we will only add complexity when the problem demands it - not before. That discipline is what separates Staff Engineers from everyone else.
 
+---
+
+#### Chapter 2: How Experienced Engineers Actually Think
+
+This is something no textbook teaches, so we’ll study it directly.
