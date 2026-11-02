@@ -137,7 +137,6 @@ You will evolve it to handle 1 million users. But we will only add complexity wh
 This is something no textbook teaches, so we’ll study it directly.
 
 #### 2.1 - First Principles vs. Analogy
-
 There are two ways to solve engineering problems:
 By Analogy: “Netflix uses microservices, so we should too.”
 
@@ -145,3 +144,7 @@ By First Principles: “What are our actual bottlenecks? What breaks first as we
 First principles thinking is slower. It requires more mental effort. But it produces engineers (future u) who can solve new problems, not just recognize known patterns.
 
 Every chapter in this course will train you guys in first principles reasoning on that topic.
+
+#### 2.2 - The Engineer’s Decision Framework
+When a senior engineer faces a design decision, they run through a mental checklist. Over time, this becomes instinct. We want to build this instinct in you.
+Here is the framework i’ll use for every major decision throughout this course:
