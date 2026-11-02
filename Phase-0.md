@@ -142,3 +142,6 @@ There are two ways to solve engineering problems:
 By Analogy: “Netflix uses microservices, so we should too.”
 
 By First Principles: “What are our actual bottlenecks? What breaks first as we grow? What is the simplest architecture that handles our real load?”
+First principles thinking is slower. It requires more mental effort. But it produces engineers (future u) who can solve new problems, not just recognize known patterns.
+
+Every chapter in this course will train you guys in first principles reasoning on that topic.
