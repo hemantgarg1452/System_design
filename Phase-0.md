@@ -167,3 +167,6 @@ This framework will appear, explicitly or implicitly, in every design decision w
 
 #### 2.3 - The Biggest Traps Engineers Fall Into
 Understanding these traps now will help you recognize them when they appear later:
+
+Trap 1: Premature Optimization
+Building for scale you don’t have. Adding Redis before you understand if your database is even slow. Adding Kafka before you have a single queue consumer. The system you build at Day 1 should handle Day 1 load. Day 1000 load gets Day 1000 architecture.
