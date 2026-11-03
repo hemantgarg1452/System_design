@@ -173,3 +173,6 @@ Building for scale you don’t have. Adding Redis before you understand if your 
 
 Trap 2: Resume-Driven Development
 Choosing technologies because they look impressive on a CV, not because they solve the actual problem. Kubernetes for a 50-user internal tool. GraphQL for a simple CRUD app. Blockchain for... anything that doesn’t actually need it.
+
+Trap 3: Cargo Culting
+“Amazon uses microservices” → “We should use microservices.” This ignores that Amazon has thousands of engineers, hundreds of services, and a decade of distributed systems expertise. Your 5-person team does not. Start with a monolith.
