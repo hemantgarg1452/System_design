@@ -170,3 +170,6 @@ Understanding these traps now will help you recognize them when they appear late
 
 Trap 1: Premature Optimization
 Building for scale you don’t have. Adding Redis before you understand if your database is even slow. Adding Kafka before you have a single queue consumer. The system you build at Day 1 should handle Day 1 load. Day 1000 load gets Day 1000 architecture.
+
+Trap 2: Resume-Driven Development
+Choosing technologies because they look impressive on a CV, not because they solve the actual problem. Kubernetes for a 50-user internal tool. GraphQL for a simple CRUD app. Blockchain for... anything that doesn’t actually need it.
