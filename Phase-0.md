@@ -164,3 +164,6 @@ The Engineering Decision Framework
 ---
 
 This framework will appear, explicitly or implicitly, in every design decision we make throughout this course.
+
+#### 2.3 - The Biggest Traps Engineers Fall Into
+Understanding these traps now will help you recognize them when they appear later:
