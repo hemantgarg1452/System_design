@@ -148,3 +148,17 @@ Every chapter in this course will train you guys in first principles reasoning o
 #### 2.2 - The Engineer’s Decision Framework
 When a senior engineer faces a design decision, they run through a mental checklist. Over time, this becomes instinct. We want to build this instinct in you.
 Here is the framework i’ll use for every major decision throughout this course:
+
+---
+
+The Engineering Decision Framework
+
+1. What problem are we actually solving? (Not what technology to use. The actual problem.)
+2. What are the constraints? (Scale, budget, team size, existing systems, timeline)
+3. What options exist? (At least three - never jump to the first idea)
+4. What are the trade-offs of each option? (What does each gain? What does each cost?)
+5. What does the future look like? (How does this decision age? What breaks at 10× scale?)
+6. What do we choose, and why? (Not the “best” option - the most appropriate option for this context)
+7. What metrics tell us this decision is wrong? (How will we know when to revisit it?)
+
+---
