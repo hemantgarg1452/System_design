@@ -162,3 +162,5 @@ The Engineering Decision Framework
 7. What metrics tell us this decision is wrong? (How will we know when to revisit it?)
 
 ---
+
+This framework will appear, explicitly or implicitly, in every design decision we make throughout this course.
